@@ -1,2 +1,4 @@
-# FiveM-Scripts
-all my standalone scripts into one github repository
+# FiveM Scripts
+This is a list of all my FiveM Standalone scripts all in one github repository.
+
+License: [here](https://github.com/bxrksggs/FiveM-Scripts/blob/master/LICENSE)
